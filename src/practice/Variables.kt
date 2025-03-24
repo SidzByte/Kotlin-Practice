@@ -1,5 +1,7 @@
 package practice
 
+//String templates ($) is also used
+
 fun main(){
     val name = "Ishan Dixit"
     var age = 21
