@@ -7,6 +7,8 @@ enum class Day {
 
 fun main() {
     val today = Day.SUNDAY
+    val today1 = Day.MONDAY
     println(today)  // Output: SUNDAY
+    println(today1)
 }
 
